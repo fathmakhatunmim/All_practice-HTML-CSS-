@@ -1,0 +1,8 @@
+fieldset{
+    background-color: bisque;
+    width: 70%;
+    border: rgb(134, 58, 58);
+    padding: 2%;
+    margin: 2%;
+    border-style: solid;
+}
