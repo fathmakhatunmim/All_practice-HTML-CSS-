@@ -1,0 +1,21 @@
+nav li{
+    list-style:none;
+    display: inline;
+    margin-right: 20px;
+
+}
+
+nav li:hover {
+    background-color: aqua;
+}
+
+
+nav li a{
+    text-decoration: none;
+}
+footer{
+    text-align:center;
+}
+figcaption{
+    text-align:center;
+}
